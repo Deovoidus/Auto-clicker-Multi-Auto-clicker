@@ -1,2 +1,3 @@
 # Auto-clicker-Multi-Auto-clicker
-A auto clicker that can also auto click multiple times
+@Deovoidus1 for bugs/suggestions
+Coordinates feature = Multiple click spots

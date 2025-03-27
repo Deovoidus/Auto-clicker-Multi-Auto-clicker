@@ -18,8 +18,8 @@ class AutoClicker:
     DEFAULT_UNTIL_STOPPED = True
     DEFAULT_SPECIFIC_CLICKS = 10
     DEFAULT_ALWAYS_ON_TOP = False
-    DEFAULT_BUTTON_WIDTH = 20
-    DEFAULT_BUTTON_HEIGHT = 2
+    DEFAULT_BUTTON_WIDTH = 30
+    DEFAULT_BUTTON_HEIGHT = 3
 
     def __init__(self, root):
         self.root = root
